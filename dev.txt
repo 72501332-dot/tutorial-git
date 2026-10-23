@@ -1,1 +1,2 @@
 Alteração feita na branch dev
+Linha editada pelo VS Code
